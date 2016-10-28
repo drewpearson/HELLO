@@ -1,6 +1,4 @@
-label {
-	display: block;	
-} 
+
 #success, #error { 
 	display: none;
     background:#f9f9f9;
